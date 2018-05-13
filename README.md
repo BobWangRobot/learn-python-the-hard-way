@@ -1,1 +1,1 @@
-# learn python the hard way
+# 本办法学Python
