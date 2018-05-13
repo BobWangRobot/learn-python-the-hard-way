@@ -1,1 +1,1 @@
-# 本办法学Python
+# 笨办法学Python
